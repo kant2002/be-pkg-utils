@@ -1,5 +1,5 @@
-import { BadRequestError, UnauthorizedError } from '@diia-inhouse/errors'
-import { TokenData, VerifiedBaseTokenData } from '@diia-inhouse/types'
+import { BadRequestError, UnauthorizedError } from '@kant2002-diia-inhouse/errors'
+import { TokenData, VerifiedBaseTokenData } from '@kant2002-diia-inhouse/types'
 
 export class Asserts {
     static isRefreshTokenExists(tokenData: TokenData): asserts tokenData is VerifiedBaseTokenData<TokenData> {

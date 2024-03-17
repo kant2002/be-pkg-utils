@@ -1,6 +1,6 @@
 import { isFunction } from 'lodash'
 
-import { ApiError } from '@diia-inhouse/errors'
+import { ApiError } from '@kant2002-diia-inhouse/errors'
 import {
     AcquirerSession,
     ActionSession,
@@ -11,7 +11,7 @@ import {
     OnRegistrationsFinished,
     ServiceEntranceSession,
     UserSession,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 export class Guards {
     static isError(value: unknown): value is Error {

@@ -1,4 +1,4 @@
-import { AuthDocumentType, DiiaOfficeStatus, Gender, ProfileFeature, SessionType, UserTokenData } from '@diia-inhouse/types'
+import { AuthDocumentType, DiiaOfficeStatus, Gender, ProfileFeature, SessionType, UserTokenData } from '@kant2002-diia-inhouse/types'
 
 import { extractProfileFeatures } from '../../src'
 

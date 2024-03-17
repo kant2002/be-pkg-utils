@@ -1,4 +1,4 @@
-import { GrpcStatusCode, HttpStatusCode } from '@diia-inhouse/types'
+import { GrpcStatusCode, HttpStatusCode } from '@kant2002-diia-inhouse/types'
 
 export class NetworkUtils {
     private static readonly grpcStatusCodes = Object.values(GrpcStatusCode)

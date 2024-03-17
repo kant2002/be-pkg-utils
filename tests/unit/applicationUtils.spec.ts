@@ -1,8 +1,8 @@
 import { ToRelativeUnit } from 'luxon'
 import { WithAppVersionsEntity } from 'tests/interfaces'
 
-import { ApiError, BadRequestError } from '@diia-inhouse/errors'
-import TestKit from '@diia-inhouse/test'
+import { ApiError, BadRequestError } from '@kant2002-diia-inhouse/errors'
+import TestKit from '@kant2002-diia-inhouse/test'
 import {
     ActionVersion,
     BirthCertificate,
@@ -15,7 +15,7 @@ import {
     SignedItem,
     TokenData,
     Units,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import { ApplicationUtils } from '../../src/applicationUtils'
 

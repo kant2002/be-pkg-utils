@@ -1,4 +1,4 @@
-import { DurationMs } from '@diia-inhouse/types'
+import { DurationMs } from '@kant2002-diia-inhouse/types'
 
 import { IntegrationUtils } from '../../src/integration'
 

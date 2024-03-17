@@ -1,6 +1,6 @@
 import { randomUUID } from 'crypto'
 
-import { DocStatus, EducationDocument, EducationDocumentType } from '@diia-inhouse/types'
+import { DocStatus, EducationDocument, EducationDocumentType } from '@kant2002-diia-inhouse/types'
 
 export const getValidEducationDocument = (): EducationDocument => {
     const documentNumber = randomUUID()

@@ -1,4 +1,4 @@
-import { TokenData } from '@diia-inhouse/types'
+import { TokenData } from '@kant2002-diia-inhouse/types'
 
 import { Asserts } from '../../src/asserts'
 

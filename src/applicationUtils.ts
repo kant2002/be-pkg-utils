@@ -1,7 +1,7 @@
 import { compare } from 'compare-versions'
 import { DateTime, ToRelativeUnit } from 'luxon'
 
-import { ApiError, BadRequestError, ErrorData, ErrorType } from '@diia-inhouse/errors'
+import { ApiError, BadRequestError, ErrorData, ErrorType } from '@kant2002-diia-inhouse/errors'
 import {
     ActHeaders,
     ActionSession,
@@ -23,7 +23,7 @@ import {
     Units,
     UserTokenData,
     WithAppVersions,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 export class ApplicationUtils {
     static documentTypeToCamelCase: Record<DocumentType, DocumentTypeCamelCase> = {

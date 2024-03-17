@@ -1,4 +1,4 @@
-import TestKit from '@diia-inhouse/test'
+import TestKit from '@kant2002-diia-inhouse/test'
 import {
     ContactsResponse,
     PlatformType,
@@ -8,7 +8,7 @@ import {
     PublicServiceSettings,
     PublicServiceStatus,
     SessionType,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import { AuthProviderName } from '../../src/interfaces/publicService'
 import { PublicServiceUtils } from '../../src/publicService'

@@ -2,7 +2,7 @@
 import { ObjectId } from 'bson'
 import { cloneDeep, isObject } from 'lodash'
 
-import { ArrayRule, ObjectRule, ValidationSchema } from '@diia-inhouse/validators'
+import { ArrayRule, ObjectRule, ValidationSchema } from '@kant2002-diia-inhouse/validators'
 
 import { TypeUtils } from './typeUtils'
 

@@ -1,7 +1,7 @@
 import { randomUUID } from 'crypto'
 
-import TestKit from '@diia-inhouse/test'
-import { DocumentType, RowType } from '@diia-inhouse/types'
+import TestKit from '@kant2002-diia-inhouse/test'
+import { DocumentType, RowType } from '@kant2002-diia-inhouse/types'
 
 jest.mock('../../src/educationDocument', () => ({ getEducationBlocks: (): [] => [] }))
 

@@ -1,7 +1,7 @@
 import moment from 'moment'
 
-import { NotFoundError } from '@diia-inhouse/errors'
-import { Block, EducationDocument, EducationDocumentType, RowType } from '@diia-inhouse/types'
+import { NotFoundError } from '@kant2002-diia-inhouse/errors'
+import { Block, EducationDocument, EducationDocumentType, RowType } from '@kant2002-diia-inhouse/types'
 
 export default class EducationDocumentService {
     private static readonly dateFormat: string = 'DD.MM.YYYY'

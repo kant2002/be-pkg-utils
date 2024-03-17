@@ -12,7 +12,7 @@ import {
     PublicServiceStatus,
     UserFeatures,
     UserTokenData,
-} from '@diia-inhouse/types'
+} from '@kant2002-diia-inhouse/types'
 
 import { ApplicationUtils } from './applicationUtils'
 import { AuthProviderName } from './interfaces/publicService'

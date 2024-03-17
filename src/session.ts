@@ -1,4 +1,4 @@
-import { DiiaOfficeStatus, EResidentSession, ProfileFeature, UserFeatures, UserSession } from '@diia-inhouse/types'
+import { DiiaOfficeStatus, EResidentSession, ProfileFeature, UserFeatures, UserSession } from '@kant2002-diia-inhouse/types'
 
 export function profileFeaturesToList(features: UserFeatures): ProfileFeature[] {
     const featuresList: ProfileFeature[] = []

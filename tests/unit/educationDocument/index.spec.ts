@@ -1,7 +1,7 @@
 import moment from 'moment'
 
-import { NotFoundError } from '@diia-inhouse/errors'
-import { EducationDocumentType } from '@diia-inhouse/types'
+import { NotFoundError } from '@kant2002-diia-inhouse/errors'
+import { EducationDocumentType } from '@kant2002-diia-inhouse/types'
 
 import EducationDocumentService from '../../../src/educationDocument'
 import { getValidEducationDocument } from '../../mocks/educationDocument'

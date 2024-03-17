@@ -1,5 +1,5 @@
-import { ApiError, BadRequestError } from '@diia-inhouse/errors'
-import TestKit from '@diia-inhouse/test'
+import { ApiError, BadRequestError } from '@kant2002-diia-inhouse/errors'
+import TestKit from '@kant2002-diia-inhouse/test'
 
 import { Guards } from '../../src/guards'
 

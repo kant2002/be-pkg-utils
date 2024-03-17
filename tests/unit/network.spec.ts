@@ -1,4 +1,4 @@
-import { GrpcStatusCode } from '@diia-inhouse/types'
+import { GrpcStatusCode } from '@kant2002-diia-inhouse/types'
 
 import { NetworkUtils } from '../../src/network'
 
